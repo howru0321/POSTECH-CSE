@@ -12,5 +12,6 @@ Archive for POSTECH CSE Assignments
 - [CSED311](https://github.com/howru0321/POSTECH-CSED311): Computer Architecture
 ## 2023-F
 - [CSED312](https://github.com/howru0321/POSTECH-CSED311): Operating Systems
+- [CSED332](https://github.com/howru0321/POSTECH-CESD332): Software Design Methods(Final Project)
 ## 2024-S
-- [AIGS538](https://github.com/howru0321/POSTECH-AIGS538): Deep Learning
+- [AIGS538](https://github.com/howru0321/POSTECH-AIGS538): Deep Learning(Final Project)

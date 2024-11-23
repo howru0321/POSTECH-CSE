@@ -5,7 +5,7 @@ Archive for POSTECH CSE Assignments
 ## 2022-S
 - [CSED232](https://github.com/howru0321/POSTECH-CSED232): Object Oriented Programming
 - [CSED233](https://github.com/howru0321/POSTECH-CSED233): Data Structure
-- [CSED273](https://github.com/howru0321/POSTECH-CSED273): Digital Systems
+- [CSED273](https://github.com/howru0321/POSTECH-CSED273): Digital Systems Design
 ## 2022-F
 - [CSED211](https://github.com/howru0321/POSTECH-CSED211): Computer Systems
 ## 2023-S
